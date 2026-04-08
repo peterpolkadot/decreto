@@ -406,9 +406,6 @@ export default function Home() {
       {/* ── FOOTER ── */}
       <footer className="bg-[#202020] text-gray-400 py-8">
         <div className="max-w-6xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm">
-          <p>
-            &copy; {new Date().getFullYear()} Century 21 Adams &amp; Costello. All Rights Reserved.
-          </p>
           <div className="flex gap-6">
             <a
               href="https://www.facebook.com/C21Wynnum"
