@@ -167,31 +167,46 @@ export default function Home() {
               Your Local Property Expert
             </h2>
             <div className="w-12 h-1 bg-[#F2B838] mb-6" />
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="https://scontent.fbne11-1.fna.fbcdn.net/v/t39.30808-6/545885461_1244974347646134_2359253516653802546_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=--ak9UMfDMAQ7kNvwG2PRAy&_nc_oc=Adqqk2_QW1saa66ZrJo6yUlObznqTHLXy4PkoALfBMNVe4T_PnL3BXJyL6T-hXpEH2I&_nc_zt=23&_nc_ht=scontent.fbne11-1.fna&_nc_gid=j8V6YiquJfRHYMfzOIgXrw&_nc_ss=7a3a8&oh=00_Af2g03ibrmqN-4-ry3nkLk7uG06tU21sXpJzeDsdCqSLSg&oe=69DB76B3"
+              alt="CJ Setlhong in the Wynnum community"
+              className="w-full rounded-lg object-cover shadow-sm"
+            />
           </div>
           <div className="space-y-4 text-gray-600 leading-relaxed text-[1.05rem]">
             <p>
               With over <strong className="text-[#202020]">10 years of real estate experience</strong>,
-              CJ Setlhong brings award-winning expertise and a proven record of success to
-              the Wynnum and Bayside community.
+              CJ Setlhong has made it his mission to become the most knowledgeable agent
+              in the <strong className="text-[#202020]">Wynnum and Bayside market</strong>. He has
+              studied this area extensively — understanding its streets, its buyers, and
+              what drives prices — so that every client gets the best possible result.
             </p>
             <p>
-              A former high school Mathematics Teacher with multiple degrees including a{" "}
-              <strong className="text-[#202020]">Master of Business (Property)</strong>, CJ combines
-              strong communication, sharp analysis, and deep market insight to deliver
-              outstanding results for his clients.
+              When it comes to <strong className="text-[#202020]">selling your home for the highest price</strong>,
+              CJ&apos;s analytical edge sets him apart. As a former Mathematics Teacher with a{" "}
+              <strong className="text-[#202020]">Master of Business (Property)</strong>, he combines
+              sharp market analysis with proven negotiation skills to consistently secure
+              outstanding outcomes for sellers.
             </p>
             <p>
-              CJ has built an impressive career across the Barossa, Gawler, and Adelaide
-              regions, earning multiple <strong className="text-[#202020]">Century 21 Centurion Awards</strong>,
-              placing him in the Top 2% of agents worldwide for 2021, 2022, and 2023.
-              He has also been in the top 10 in REB awards for three consecutive years.
+              His track record speaks for itself — multiple{" "}
+              <strong className="text-[#202020]">Century 21 Centurion Awards</strong>, placing him
+              in the <strong className="text-[#202020]">Top 2% of agents worldwide</strong> for 2021,
+              2022, and 2023, plus three consecutive years in the REB Top 10. This is the
+              level of expertise working for you when you list with CJ.
             </p>
             <p>
-              Known for his dedication, integrity, and results-driven approach, CJ has
-              extensive experience across residential, land, rural, and commercial sales.
-              Now proudly part of the Wynnum community, CJ is committed to helping locals
-              achieve the best possible outcome for their property.
+              Whether you&apos;re selling, buying, or simply want to know what your Wynnum or
+              Bayside property is worth, CJ brings dedication, integrity, and a genuine
+              commitment to getting you the <strong className="text-[#202020]">best price on the market</strong>.
             </p>
+            <a
+              href="#contact"
+              className="inline-block mt-2 bg-[#F2B838] text-[#202020] font-semibold px-6 py-3 rounded hover:bg-yellow-400 transition-colors tracking-wide"
+            >
+              Get a Free Appraisal
+            </a>
           </div>
         </div>
       </section>
