@@ -116,7 +116,7 @@ export default function Home() {
                 href="https://wynnum.century21.com.au/market-appraisal?agentid=23567"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="border border-[#F2B838] text-[#F2B838] font-semibold px-6 py-3 rounded hover:bg-[#F2B838] hover:text-[#202020] transition-colors tracking-wide"
+                className="btn-appraisal"
               >
                 Arrange an Appraisal
               </a>
@@ -203,7 +203,7 @@ export default function Home() {
             </p>
             <a
               href="#contact"
-              className="inline-block mt-2 bg-[#F2B838] text-[#202020] font-semibold px-6 py-3 rounded hover:bg-yellow-400 transition-colors tracking-wide"
+              className="btn-appraisal mt-2"
             >
               Get a Free Appraisal
             </a>
@@ -359,7 +359,7 @@ export default function Home() {
                 href="https://wynnum.century21.com.au/market-appraisal?agentid=23567"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-[#202020] text-white font-semibold px-6 py-3 rounded hover:bg-[#F2B838] hover:text-[#202020] transition-colors tracking-wide"
+                className="btn-appraisal"
               >
                 Arrange an Appraisal
               </a>
